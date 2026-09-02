@@ -6,10 +6,10 @@ ecosystem = "metadatastician"
 
 [position]
 type = "interactive-experience"
-purpose = "Sixth Stealth Glider investigation: scope not yet specified. Reserved placeholder in the metadatastician Stealth Glider line."
+purpose = "Sixth Stealth Glider investigation (reserved): the topology of knots — the K in the name — with 137 pointing at the Varying-Constants hypothesis (drift of the fine-structure constant over time) and NCC nodding to astronomy's catalogue acronyms. Intent recorded 2026-09-02 (owner ruling); no implementation yet."
 what-this-is-not = [
   "a shipped or playable game",
-  "a specification of what this investigation will contain",
+  "a specification of the knot-topology mechanics (only the intent is recorded)",
   "a rename or fork of any earlier Stealth Glider project",
   "the coordination hub for the line",
 ]
@@ -17,7 +17,7 @@ what-this-is-not = [
 [pipeline]
 position = "sixth Stealth Glider investigation"
 chain = "f19-stealth-glider -> f117a-stealth-glider -> sr71-blackglider -> x15-rocket-glider -> planer-1 -> enterglide-ncc-137-k -> tardis-rule-disruption"
-notes = "Reserved slot. Scope is filled by pull request once the investigation is specified; until then this repository holds only its identity, its place in the line and the estate scaffold."
+notes = "Reserved slot with intent recorded 2026-09-02 (owner ruling). Intent is not work begun: the phase stays reserved until the first content lands by pull request; until then this repository holds its identity, its place in the line, the recorded intent and the estate scaffold."
 coordination = "metadatastician/stealth-glider-ecosystem"
 
 [related-projects]
