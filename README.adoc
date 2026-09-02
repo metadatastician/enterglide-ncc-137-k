@@ -9,15 +9,23 @@ image:https://img.shields.io/badge/Docs-CC--BY--SA--4.0-blue.svg?logo=creativeco
 image:https://img.shields.io/badge/RSR-Rhodium_Standard-9C27B0[Rhodium Standard Repository,link="https://github.com/hyperpolymath/rhodium-standard-repositories"]
 image:https://img.shields.io/badge/status-reserved-lightgrey[Reserved placeholder]
 
-_Sixth Stealth Glider investigation: scope not yet specified. Reserved placeholder in the metadatastician Stealth Glider line._
+_Sixth Stealth Glider investigation (reserved): the topology of knots — the K in the name — with 137 pointing at the Varying-Constants hypothesis (drift of the fine-structure constant over time) and NCC nodding to astronomy's catalogue acronyms. Intent recorded 2026-09-02 (owner ruling); no implementation yet._
 
 [IMPORTANT]
 ====
 This repository is a *reserved placeholder*. It holds the project's identity,
-its position in the Stealth Glider line and the estate scaffold. It contains no
-implementation, no specification and no playable artefact. The investigation's
-scope will be filled in by pull request when it is specified.
+its position in the Stealth Glider line, the recorded intent (below) and the
+estate scaffold. It contains no implementation, no formal specification and no
+playable artefact. Work begins by pull request; the CLADE phase moves to
+`incubating` only when the first content lands.
 ====
+
+== Intent
+
+This investigation starts handling the topology of knots: that is what the K at the end of the code refers to. NCC is a reference to the galaxy and space catalogue acronyms of astronomy (with the Star Trek registry echo intended), and 137 points at the "Varying Constants" hypothesis: the idea that the equivalence around the number 137, the inverse fine-structure constant, may change over time, so that is the focus. How knots are represented on the field, and what gates they must pass, is not yet specified.
+
+Recorded 2026-09-02 by owner ruling. Intent is not work begun: the CLADE phase
+stays `reserved` until the first content lands.
 
 == Position in the line
 

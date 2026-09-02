@@ -4,16 +4,21 @@
 
 == Current status
 
-Reserved. This is the sixth investigation in the Stealth Glider line; its scope
-is not yet specified. The series roadmap lives in the coordination hub,
+Reserved, with intent recorded. This is the sixth investigation in the Stealth
+Glider line. The series roadmap lives in the coordination hub,
 https://github.com/metadatastician/stealth-glider-ecosystem[stealth-glider-ecosystem].
+
+== Intent (recorded 2026-09-02, owner ruling)
+
+This investigation starts handling the topology of knots: that is what the K at the end of the code refers to. NCC is a reference to the galaxy and space catalogue acronyms of astronomy (with the Star Trek registry echo intended), and 137 points at the "Varying Constants" hypothesis: the idea that the equivalence around the number 137, the inverse fine-structure constant, may change over time, so that is the focus. How knots are represented on the field, and what gates they must pass, is not yet specified.
 
 == Milestones
 
 === Reserved (done)
 * [x] Identity, lineage and estate scaffold minted from rsr-template-repo
+* [x] Intent recorded (2026-09-02, owner ruling)
 
 === Specified (next)
-* [ ] Record the investigation's question and boundaries here and in
-      `machine-readable/descriptiles/ECOSYSTEM.a2ml`
+* [ ] Turn the recorded intent into a specification: question, boundaries and
+      first gate, here and in `machine-readable/descriptiles/ECOSYSTEM.a2ml`
 * [ ] Move CLADE phase from `reserved` to `incubating`
