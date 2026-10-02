@@ -99,6 +99,6 @@ Or read `0-AI-MANIFEST.a2ml` and `.claude/CLAUDE.md` directly.
 
 == Get Help
 
-* **Architecture**: link:EXPLAINME.adoc[EXPLAINME.adoc]
+* **Architecture**: link:../EXPLAINME.adoc[EXPLAINME.adoc]
 * **Wiki**: https://github.com/metadatastician/enterglide-ncc-137-k/wiki
 * **Report issue**: `just help-me`
